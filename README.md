@@ -1,6 +1,11 @@
 # CPU_RolePlay
-A role play theater, where children simulate a simple CPU together
 
-The description for this project can be found on Medium: https://medium.com/@mlardelli/cpu-role-play-for-children-teaching-computer-hardware-in-primary-schools-e163788400a6
+## CPU Role Play for Children (teaching computer hardware in primary schools)
 
-The files are in german. An English version will follow soon.
+A role play theater, where children simulate a simple CPU in a group
+
+The description for this project can be found on my blog: 
+
+https://lardel.li/2019/05/cpu-role-play-for-children-teaching-computer-hardware-in-primary-schools.html
+
+The files are available in German and English (PDF's and source files for Apple Pages)
